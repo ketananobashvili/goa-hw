@@ -8,8 +8,7 @@
 num1 = int(input("enter a number: "))
 
 
-
-if num1 > 90:
+if num1 >= 90:
     print("A")
 elif num1 >= 70 and num1 < 90:
     print("B")
